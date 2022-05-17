@@ -2,10 +2,6 @@
 
 
 
-<a href="https://https://github.com/MateusFauri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFauri&theme=dark&hide_langs_below=1" />
-</a>
-
 <!--
 **MateusFauri/MateusFauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
