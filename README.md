@@ -15,14 +15,16 @@
 ```Python
 class MateusFauri:
   def __init__(self):
-    self.skills = ['C','C++', 'Python','Ruby', 'HTML', 'CSS', 'SQL']
-    self.learning = ['Machine Learning', 'Artificial intelligence']
+    self.skills = ['Python', 'C', 'C++', 'Ruby', 'HTML', 'CSS', 'SQL', 'Git']
+    self.learning = ['Computer Vision', 'Tensorflow', 'Artificial intelligence']
  
   def routine(self):
      drink(coffee)
      code()
-     sleep()
-    
+     try:
+      sleep()
+     except:
+      code()
     
  myself = MateusFauri()
  
